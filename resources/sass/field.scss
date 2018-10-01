@@ -1,0 +1,24 @@
+.flexContainer {
+  display: flex;
+}
+.icon{
+  margin-left:5px;
+  margin-top:2px;
+}
+.input_withicon {
+  display: flex;
+  position: relative;
+}
+.icon_in{
+  margin-left:5px;
+  margin-top:5px;
+  font-size:28px !important;
+  position: absolute;
+  right:5px;
+}
+.icon_out{
+  margin-left:5px;
+  margin-top:5px;
+  font-size:28px !important;
+
+}
