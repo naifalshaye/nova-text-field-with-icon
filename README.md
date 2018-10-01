@@ -1,4 +1,4 @@
-# Nova Text Field With Custom Icon
+# Nova text field with a custom icon
 A Laravel Nova text field with a custom icon
 
 ## Installation:
